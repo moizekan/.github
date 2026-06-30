@@ -7,7 +7,7 @@ A group of active developers focused on creating useful and versatile software.
 - [**Scramjet**](https://github.com/MercuryWorkshop/scramjet) - <sub>An experimental interception-based web proxy that aims to be the successor to Ultraviolet.</sub>
 - [**Dreamland**](https://github.com/MercuryWorkshop/dreamlandjs) - <sub>A reactive JSX-based rendering library with no virtual DOM.</sub>
 - [**Wisp**](https://github.com/MercuryWorkshop/wisp-protocol) - <sub>A low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a WebSocket connection.</sub>
-- [**Epoxy**](https://github.com/MercuryWorkshop/epoxy-tls) - <sub>A encrypted proxy for browser javascript.</sub>
+- [**Epoxy**](https://github.com/MercuryWorkshop/epoxy-tls) - <sub>An encrypted proxy for browser javascript.</sub>
 - [**Adrift**](https://github.com/MercuryWorkshop/adrift/) - <sub>A fast and modern decentralized web proxy network, utilizing transport over WebRTC. (Unmaintained)</sub>
 - [**Sh1mmer**](https://github.com/MercuryWorkshop/sh1mmer) - <sub>An exploit found in ChromeOS that utilitzes modified RMA factory shims to gain code execution.</sub>
 <sub>(Unmaintained)</sub>
